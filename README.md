@@ -6,9 +6,6 @@ Welcome to the **Neighbourhood Watch** Python web application.
 
 ## About the Project
 
-Below is a screenshot of the project's landing page.
-![ScreenShot](static\images\screenshot.jpg)
-
 **Neighbourhood Watch** project is a web application that is created using a Python backend and its purpose is to keep a user on the know regarding with activities going on in their neighbourhood. This project is created to demonstrate the proficiency in Python Language and Django Framework.
 
 <hr>
@@ -48,7 +45,7 @@ To add Police Authority and Health Services information, log in to the admin das
 
 ## Author
 
-The sole author of the project is Jonathan Mwita Chacha.
+The sole author of the project is Samuel Murigi.
 
 <hr>
 
@@ -68,26 +65,12 @@ This project is also dependant on various Django extensions that make up the fun
 
 <hr>
 
-## Acknowledgements
-
-The following parties greatly contributed to the development of **Instagram Clone** project:
-
-- Moringa School LMS
-- [Google Fonts](https://fonts.google.com/specimen/Ephesis#pairings)
-- [ColorHunt](https://colorhunt.co/)
-- [StackOverflow](https://stackoverflow.com/)
-- [Font Awesome](tawesome.com/?utm_source=font_awesome_homepage&utm_medium=display&utm_campaign=fa5_released&utm_content=download_modal)
-- [MIT License](https://opensource.org/licenses/MIT)
-
-<hr>
-
 ## Contact Information
 
-For any suggestions, reporting of bugs or improvements, reach me through my email address - jonahhchacha@gmail.com
+For any suggestions, reporting of bugs or improvements, reach me through my email address - karanjasam210@gmail.com
 
 ## Copyright and License Information
-
-Copyright (c) 2021 Jonathan Mwita Chacha
+Copyright (c) 2021 Samuel Murigi.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
