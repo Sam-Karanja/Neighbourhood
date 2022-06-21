@@ -114,6 +114,7 @@ def createbusiness(request, id):
 
 
 @login_required(login_url='/accounts/login/')
+
 def search_results(request):
   if 'business' in request.GET and request.GET["business"]:
     search_term = request.GET.get('business')
