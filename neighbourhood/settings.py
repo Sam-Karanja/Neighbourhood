@@ -35,6 +35,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'watch',
     'cloudinary',
     'tinymce',    
     'watch.apps.WatchConfig',
