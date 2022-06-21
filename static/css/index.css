@@ -3,7 +3,7 @@ form,
 ::placeholder,
 li {
     font-family: 'Source Sans Pro';
-    font-size: smaller;
+    font-size: medium;
     color: #45526C;
     font-weight: 600;
 }
@@ -35,7 +35,7 @@ a {
 
 .prof-body {
 
-    width: 70%;
+    width: 75%;
     padding: 5%;
     box-shadow: 0 7px 10px 0 rgba(0, 0, 0, 0.2), 0 8px 22px 0 rgba(0, 0, 0, 0.19);
 }
