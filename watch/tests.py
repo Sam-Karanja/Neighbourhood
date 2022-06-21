@@ -15,6 +15,7 @@ class NeighbourhoodTestClass(TestCase):
         self.test_neighbourhood.save()
         test_neighbourhoods = Neighbourhood.objects.all()
         self.assertTrue(len(test_neighbourhoods) > 0)
+        
             
     
     def test_delete_method(self):
@@ -24,6 +25,7 @@ class NeighbourhoodTestClass(TestCase):
         
     def tearDown(self):
         Neighbourhood.objects.all().delete()
+
         
         
 class ProfileTestClass(TestCase):
