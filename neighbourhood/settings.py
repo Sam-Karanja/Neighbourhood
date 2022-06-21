@@ -85,9 +85,9 @@ WSGI_APPLICATION = 'neighbourhood.wsgi.application'
 DATABASES = {
     'default': {
        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'nwatch',
-        'USER': 'postgres',
-    'PASSWORD':'6775',
+        'NAME': 'sammyk',
+        'USER': 'updates-mtaani',
+    'PASSWORD':'qwerty',
     }
 }
 cloudinary.config( 
